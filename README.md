@@ -28,7 +28,6 @@
 
 - 🔭 Improving my skills in mobile development using Flutter  
 - 🧠 Building full-stack apps with modern technologies  
-- 🛠️ Working on my personal **Portfolio** website
 
 ---
 
