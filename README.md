@@ -2,7 +2,6 @@
 <h3 align="center">A passionate web and mobile developer from Algeria</h3>
 
 - 🌱 I’m currently learning **JavaScript** and **Flutter**  
-- 🔨 I’m still working on my **portfolio**  
 - 📫 How to reach me: **abderrahmanelaidisista@gmail.com**
 
 ---
