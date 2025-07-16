@@ -8,7 +8,7 @@
 🎓 I’m currently a university student majoring in **Software Engineering**  
 🌱 I’m actively learning **Flutter**, **PHP**, **JavaScript**, and **Python**  
 🚀 I'm passionate about building mobile and web applications  
-📫 You can reach me at **abderrahmanelaidisista@gmail.com**  
+📫 You can reach me at **abderahmanelaidisista@gmail.com**  
 💼 LinkedIn: [abderrahmane-laidi-sista](https://www.linkedin.com/in/abderrahmane-laidi-sista)
 
 ---
